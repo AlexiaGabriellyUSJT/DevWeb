@@ -10,7 +10,8 @@
 </head>
 <body>
     <nav class="navbar navbar-light bg-light">
-		<span class="navbar-brand mb-0 h1">Cadastro de Pais</span>
+        <span class="navbar-brand mb-0 h1">Cadastro de Pais</span>
+        <c:import url="Menu.jsp"/>
     </nav>
     <div class="container">
         <div class="col-md-12">

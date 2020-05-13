@@ -15,6 +15,7 @@
 	<%Cliente cliente = (Cliente)request.getAttribute("cliente"); %>
 	<nav class="navbar navbar-light bg-light">
 		<span class="navbar-brand mb-0 h1">País</span>
+		<c:import url="Menu.jsp"/>
 	</nav>
 	<div class="container">
 		<div class="col-md-12">
